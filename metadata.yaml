@@ -1,0 +1,27 @@
+_repo: Paris-under-the-Commune--13-The-Seventy-Three-Days-of-the-Second-Siege--with-Numerous-Illustr__10861
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leighton, John
+    alias: Limner, Luke
+    birthdate: 1822
+    deathdate: 1912
+    gutenberg_agent_id: '9186'
+    url: http://www.gutenberg.org/2009/agents/9186
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- History -- Commune, 1871'
+- !lcc 'DC'
+- GITenberg
+title: "Paris under the Commune\r\nThe Seventy-Three Days of the Second Siege; with\
+  \ Numerous Illustrations, Sketches Taken on the Spot, and Portraits (from the Original\
+  \ Photographs)"
+url: http://www.gutenberg.org/ebooks/10861
