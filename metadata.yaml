@@ -1,5 +1,8 @@
 _repo: Paris-under-the-Commune--13-The-Seventy-Three-Days-of-the-Second-Siege--with-Numerous-Illustr__10861
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leighton, John
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '9186'
     url: http://www.gutenberg.org/2009/agents/9186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10861#Paris-under-the-Commune--13-The-Seventy-Three-Days-of-the-Second-Siege--with-Numerous-Illustr_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
